@@ -1,0 +1,20 @@
+{
+    "endPoints": {
+        "loginWIthOTP": "/user/loginWithOtp",
+        "verifyOTP": "/user/verifyOtp",
+        "addUser": "/user/addUser",
+        "getUsers": "/user/getUsers",
+        "uploadFile": "/file/upload",
+        "uploadByCustomer": "/file/uploadByCustomer",
+        "addCustomer": "/customer/addCustomer",
+        "getCustomer": "/customer/getCustomers",
+        "getCustomerDetailsByCustomer": "/customer/getCustomerById",
+        "getPartnerList": "/triplePlayApis/getPartnerList",
+        "getPlanList": "/triplePlayApis/getPlanList",
+        "getResellerList": "/triplePlayApis/getResellerList",
+        "updateKycStatus": "/customer/updateKycStatus",
+        "getCustomersFilterData": "/customer/getCustomersFilterData",
+        "updateCustomer": "/customer/updateCustomer",
+        "updateCustomerBySelf": "/customer/updateCustomerBySelf"
+    }
+}
