@@ -1,0 +1,8 @@
+{
+  "name": "ChatBot",
+  "version": "0.0.1",
+  "description": "ChatBot api documenter",
+  "title": "ChatBot Api",
+  "url" : "http://localhost:4001",
+  "sampleUrl": "http://localhost:4001"
+}
